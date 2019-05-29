@@ -1,0 +1,3 @@
+rootProject.name = 'k_bsinfoacademy_3994'
+
+include ':app'
